@@ -1,0 +1,2 @@
+Ventana emergente con selenium
+Zoom dinamico en matplotlib con eventos
